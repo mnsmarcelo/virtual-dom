@@ -1,0 +1,14 @@
+{
+    "plugins": [
+      ["transform-react-jsx", {
+        "pragma": "h"
+      }]
+    ],
+    "presets": [
+        ["@babel/preset-env", {
+          "targets": {
+            "browsers": ["last 2 versions"]
+          }
+        }]
+      ]
+  }
