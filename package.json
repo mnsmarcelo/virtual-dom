@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "babel": "babel src -d app --source-maps --watch"
+    "babel": "babel src -d app --watch"
   },
   "author": "Marcelo Sousa",
   "license": "ISC",
