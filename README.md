@@ -14,7 +14,7 @@ Iniciando o Babel:
 $ npm run babel
 ```
 
-Na pasta "scr" é o script antes da compilação pelo Babel, depois de compilado vai para a pasta "app".
+Na pasta "src" é o script antes da compilação pelo Babel, depois de compilado vai para a pasta "app".
 
 
 ![Marcelo Sousa](https://static.marcelosousa.me/assets/img/bg/marcelo-sousa-webdeveloper.jpg)
